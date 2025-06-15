@@ -1,30 +1,24 @@
-# 📘 Welcome to the IS Project Documentation Template!
-
 Hey there! 👋
 
-This repository is your home for documenting your **Innovation School Project** and starting your **maker portfolio**.  
-You’ll be using the **GitHub Wiki** to update all your project details in a structured format.
+Welcome to the documentation space for our **Innovation School Project**:  
+**Plastic Patrol – an all-terrain robot designed to scoop up plastic waste and clean the environment.**
+
+This robot helps tackle the global plastic pollution crisis by collecting scattered waste from parks, beaches, streets, and uneven terrain — all autonomously or via remote control.
 
 ---
 
-## 🧠 What to Do First
+## 🚩 Quick Intro
 
-Start by writing a **brief introduction** to your project right here in this `README.md` file:
+🔹 **Problem**: Plastic waste is polluting our environment, especially in hard-to-reach areas like rough terrains, parks, and beaches.
 
-🔹 What problem are you solving?  
-🔹 What’s your proposed solution?
-
-Just 2–3 lines are enough. This helps others quickly understand what your project is about.
-
-Click on the ✏️ PENCIL icon next to the README title above, and you can edit the README directly from within your browser.
+🔹 **Solution**: A compact, rugged, and smart robot that can traverse all terrains and collect plastic debris using a scooping mechanism, contributing to cleaner public spaces and environmental sustainability.
 
 ---
 
-## 🛠 Where to Document Everything Else
+## 📘 What’s in this Repo?
 
-We’ve already created a standard set of [**Wiki pages**](https://github.com/MakersAsylumIndia/Bowl-Buddy/wiki) for your project in this repository — you just need to **update them with your project information**.
-
-Each section is ready with headings like:
+This repository is your base for documenting your journey and creating your **maker portfolio**.  
+We use the **GitHub Wiki** for structured documentation under sections like:
 
 - Project Title
 - Problem Statement
@@ -35,55 +29,50 @@ Each section is ready with headings like:
 - Media Gallery
 - License
 
-Please **do not delete the headings** — just replace the placeholder content under each.
+✅ Please **do not delete the section headings** in the Wiki — just update the content beneath each.
 
 ---
 
-## 📚 How to Edit the GitHub Wiki Pages
+## 📚 How to Edit the Wiki Pages
 
-Follow these official GitHub help guides to learn how to edit your Wiki pages:
+Follow these GitHub guides to learn how to edit your Wiki pages:
 
-🔗 [How to Add or Edit Wiki Pages](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages)  
-🔗 [How to Format and Save Content in Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
+🔗 [Adding or Editing Wiki Pages](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages)  
+🔗 [Formatting Wiki Content](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
 
 ---
 
-## 📸 Visual Guide (Optional)
+## 🗺️ Where’s the Wiki?
 
-If you’re unsure where the Wiki tab is:  
-📍 It’s on the top-right area of the repository (next to Code, Issues, Pull Requests).
-
-You’ll find your project listed there. Click on it, then click **“Edit”** to begin updating.
+📍 You’ll find the **Wiki tab** at the top-right of this repository, next to **Code**, **Issues**, and **Pull Requests**.  
+Click on it, then open your project page to begin editing.
 
 ---
 
 ## 🤝 Need Help?
 
-If you're confused at any step:
+If you're stuck or unsure:
 - Ask your mentor or coordinator
 - Or drop a message in our Discord/WhatsApp support group
 
-Let’s build something awesome! 🚀
+Let’s build a cleaner future, one robot at a time! 🌍🦾
 
-## License
+---
 
-Licenses
+## 🪪 License
 
-<a href="LICENSE.md"><img src="Media\Images\Licenses_facts.svg" width="400" alt="Open Source Licenses Facts"/></a>
+<a href="LICENSE.md"><img src="Media/Images/Licenses_facts.svg" width="400" alt="Open Source Licenses Facts"/></a>
 
-#### Hardware
-CERN Open Hardware License Version 2 - Strongly Reciprocal ([CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html)).
-
-#### Software
-MIT open source [license](http://opensource.org/licenses/MIT).
-
-#### Documentation:
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+**Hardware**: CERN Open Hardware License Version 2 - Strongly Reciprocal ([CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html))  
+**Software**: [MIT License](http://opensource.org/licenses/MIT)  
+**Documentation**:  
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ---
 
 ## 📬 Contact/Team
 
-> _List team members and contact emails or GitHub profiles._
-
----
+> _Team Batmen
+> GitHub: [aditya2008653](https://github.com/aditya2008653)  
+> Email: adityamammen@gmail.com  
