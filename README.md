@@ -20,14 +20,36 @@ This robot helps tackle the global plastic pollution crisis by collecting scatte
 This repository is your base for documenting your journey and creating your **maker portfolio**.  
 We use the **GitHub Wiki** for structured documentation under sections like:
 
-- Project Title
-- Problem Statement
-- Bill of Materials (BOM)
-- Solution Overview
-- SDG Goals Associated
-- Circuit & CAD Files
-- Media Gallery
-- License
+- Project Title - Plastic Patrol: All-Terrain Plastic Waste Collector
+- Problem Statement - Plastic waste is one of the most pressing environmental challenges today. It accumulates in natural spaces like beaches, parks, and roadside areas — many of which are difficult to clean using traditional tools. Manual cleanup is inefficient and sometimes unsafe.
+- Bill of Materials (BOM) - Robotics chassis
+Hbridge
+NIR sensor-1
+Ultrasound sensors
+Servo motors
+"Toy Excavator bucket
+Bucket arm for JCB 4CX"
+
+Esp32 board
+Material for the outercasing of the product. (We need to decide wether to make it out of cardboard, or 3D print it.)
+Arms for the scooper/ bucket
+
+cardboad half sheet 
+foam half sheet 
+- Solution Overview - The Plastic Patrol robot is a rugged, remote-controllable robot capable of navigating rough terrain while collecting plastic waste with a servo-controlled scoop. It uses ultrasonic sensors for obstacle avoidance and can be optionally upgraded to run autonomously with object recognition or controlled via a mobile app.
+
+
+- SDG Goals Associated - SDG 11 – Sustainable Cities and Communities
+Promotes clean public spaces by automating waste collection.
+
+SDG 13 – Climate Action
+Reduces pollution and encourages sustainable cleanup methods.
+
+SDG 14 – Life Below Water
+Helps in removing plastic waste near water bodies, preventing ocean pollution.
+- Circuit & CAD Files - 
+- Media Gallery - 
+- License - 
 
 ✅ Please **do not delete the section headings** in the Wiki — just update the content beneath each.
 
