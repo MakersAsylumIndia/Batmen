@@ -33,6 +33,9 @@ Bucket arm for JCB 4CX"
 Esp32 board
 Material for the outercasing of the product. (We need to decide wether to make it out of cardboard, or 3D print it.)
 Arms for the scooper/ bucket
+Motor driver 
+3 9 volt batteries 
+nano cable 
 
 cardboad half sheet 
 foam half sheet 
