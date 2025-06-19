@@ -29,13 +29,15 @@ Ultrasound sensors
 Servo motors
 "Toy Excavator bucket
 Bucket arm for JCB 4CX"
-
 Esp32 board
 Material for the outercasing of the product. (We need to decide wether to make it out of cardboard, or 3D print it.)
 Arms for the scooper/ bucket
 Motor driver 
 3 9 volt batteries 
-nano cable 
+micro usb to usb cable 
+doubl sided tape
+foam half sheet
+ cardboard half sheet. 
 
 cardboad half sheet 
 foam half sheet 
